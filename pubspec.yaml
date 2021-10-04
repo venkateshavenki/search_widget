@@ -5,12 +5,12 @@ author: Ayush P Gupta <ayushpguptaapg@gmail.com>
 homepage: https://github.com/apgapg/search_widget
 
 environment:
-  sdk: ">=2.2.2 <3.0.0"
+  sdk: '>=2.12.0 <3.0.0'
 
 dependencies:
   flutter:
     sdk: flutter
-  flutter_keyboard_visibility: ^2.0.0
+  flutter_keyboard_visibility: ^5.0.3
 
 
 dev_dependencies:
